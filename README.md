@@ -5,4 +5,4 @@ Some sort of File Manager, made in the bash interpreter
 
 Package name: linfm
 
-Now maintained by Ingyte
+Now maintained by Ingyte [here](https://github.com/Ingyte/linfm/)
